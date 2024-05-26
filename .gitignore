@@ -1,4 +1,6 @@
 *.vscode
+
+boilerplate-backend-node-graphql-mongodb
 # compiled output
 **/dist
 **/node_modules
